@@ -32,3 +32,6 @@ List tables and sequences in your current db:
 
 Delete database:
   - # DROP DATABASE MYDB
+
+Quit the cli:
+  - # \q
