@@ -21,11 +21,8 @@ List all databases:
 Create a new database:
   - # CREATE DATABASE MYDB;
 
-Use new database:
+Use a database:
   - # \connect MYDB;
-
-Switch database:
-  - # \connect DBNAME;
 
 Run database schema:
   - # \i filepath.txt;
