@@ -24,6 +24,9 @@ Create a new database:
 Use new database:
   - # \connect MYDB;
 
+Switch database:
+  - # \connect DBNAME;
+
 Run database schema:
   - # \i filepath.txt;
 
